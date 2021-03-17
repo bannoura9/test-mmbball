@@ -8,18 +8,18 @@ const WeeklyNews = () => {
         <div className="mt-4">
           <img id="weeklyNewsIcon" src={weeklyNewsIcon} alt="" />
           <h4 className="card-title fs-3">Weekly News</h4>
-          <h6 className="card-subtitle text-black-50">Monday, March 2nd</h6>
+          <h6 className="card-subtitle text-black-50">Week of March 15th</h6>
         </div>
         <div className="card-body mt-3">
           <p className="card-text text-black-50">
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content. Some quick example text to build on the
-            card title and make up the bulk of the card's content.
+            PLAYER SPOTLIGHT: Congratulations to Grace Moyers on being name
+            Co-MVP of the Northern Colorado 4A League. Grace averaged 22 points,
+            5 assists, and 3 steals per game this season.
             <br />
             <br />
-            Some quick example text to build on the card title and make up the
-            bulk of the card's content. Some quick example text to build on the
-            card title and make up the bulk of the card's content.
+            WEATHER: Due to multiple storm warnings this week, missed remote
+            workouts will be excused. Please message Coach Mychal to reschedule
+            your workouts if weather is an issue.
           </p>
         </div>
       </div>
