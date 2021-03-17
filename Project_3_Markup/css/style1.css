@@ -1,0 +1,260 @@
+body {
+  background-color: #383d45 !important;
+  transition: background-color 0.5s;
+}
+
+.dashOpacity {
+  transition: filter 0.5s;
+}
+
+/* LOGIN PAGE */
+
+.red-background {
+  background: #e41a37;
+}
+
+#loginLogo {
+  margin: auto;
+  display: block;
+  max-width: 25%;
+  height: auto;
+}
+
+form {
+  max-width: 500px;
+  margin: auto;
+}
+
+h2 {
+  text-align: center;
+  color: aliceblue;
+}
+
+/* NAVIGATION START*/
+
+#navbar {
+  padding-top: 50px;
+}
+
+#navbarLogo {
+  margin: auto;
+  display: block;
+  max-width: 25%;
+  height: auto;
+}
+
+#hamburgerBtn {
+  font-size: 30px;
+  color: white;
+  cursor: pointer;
+}
+
+#slideContentRight {
+  transition: margin-left 0.5s;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #e41a37;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenavProfile {
+  padding-left: 43px;
+}
+
+.sidenavProfile p {
+  font-size: 21px;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.sidenav li {
+  padding: 8px 8px 8px 10px;
+  display: block;
+  margin-top: 5px;
+}
+
+.sidenav a {
+  color: rgb(230, 230, 230);
+  font-size: 16px;
+  font-weight: 300;
+  text-decoration: none;
+}
+
+.sidenav img {
+  height: 25px;
+  width: 25px;
+  margin-right: 10px;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+  color: white;
+}
+
+/* BACK TO TOP BUTTON */
+
+#backTopBtn {
+  display: none;
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 99;
+  border: none;
+  outline: none;
+  background-color: #e41a37;
+  color: white;
+  cursor: pointer;
+  padding: 20px;
+  border-radius: 50%;
+  font-size: 18px;
+  box-shadow: 5px 10px 50px black;
+  transition: transform .2s;
+}
+
+#backTopBtn:hover {
+  transform: scale(1.2);
+}
+
+/* WELCOME START */
+
+#welMsgH1 {
+  color: white;
+}
+
+.welDiv {
+  text-align: center;
+}
+
+/* WEEKLY NEWS START */
+
+#weeklyNewsIcon {
+  position: absolute;
+  padding-left: 20px;
+  height: 50px;
+}
+
+#weeklyNews h4,
+h6 {
+  margin-left: 100px;
+}
+
+/* SKILL OF THE WEEK START */
+
+#skillWeekIcon {
+  position: absolute;
+  padding-left: 20px;
+  height: 50px;
+}
+
+#skillWeek h4 {
+  margin-left: 100px;
+}
+
+/* UPCOMING WORKOUTS START */
+
+#upcomingWorkoutsIcon {
+  position: absolute;
+  padding-left: 20px;
+  height: 50px;
+}
+
+#upcomingWorkouts h4 {
+  margin-left: 100px;
+}
+
+.dashCancelBtn {
+  background-color: #e41a37 !important;
+  color: white !important;
+}
+
+.dashCancelBtn:hover {
+  background-color: #383d45 !important; */
+}
+
+/* BOOK A WORKOUT PAGE */
+
+#bookWorkout h4 {
+  margin-left: 100px;
+}
+
+#bookWorkoutsIcon {
+  position: absolute;
+  padding-left: 20px;
+  height: 50px;
+}
+
+/* DOCUMENTS LIST PAGE */
+
+#documentsListIcon {
+  position: absolute;
+  padding-left: 20px;
+  height: 50px;
+}
+
+#documents-list h4 {
+  margin-left: 100px;
+}
+
+/* RECENTLY ADDED VIDEOS START */
+
+#rec-videos-icon {
+  position: absolute;
+  padding-left: 20px;
+  height: 50px;
+}
+
+#video-wrapper h4 {
+  margin-left: 100px;
+}
+
+.video-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.video-container .video {
+  height: 15rem;
+  width: 25rem;
+  margin: 1rem;
+  overflow: hidden;
+  border-radius: 0.25rem;
+}
+
+.video-container .video video {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+/* MEDIA START */
+
+@media screen and (max-height: 450px) {
+  .sidenav {
+    padding-top: 15px;
+  }
+  .sidenav a {
+    font-size: 18px;
+  }
+}

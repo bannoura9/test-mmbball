@@ -1,0 +1,318 @@
+body {
+  background-color: #383d45 !important;
+  transition: background-color 0.5s;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5 {
+  font-family: "Raleway", sans-serif !important;
+  font-weight: 700;
+}
+
+h6,
+p {
+  font-family: "Roboto", sans-serif !important;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+.dashOpacity {
+  transition: filter 0.5s;
+}
+/* NAVIGATION START*/
+#navbar {
+  padding-top: 55px;
+}
+#navbarLogo {
+  margin: auto;
+  display: block;
+  max-width: 25%;
+  height: auto;
+}
+#hamburgerBtn {
+  font-size: 30px;
+  color: white;
+  cursor: pointer;
+}
+#qsLogoutBtn {
+  height: 25px;
+  width: 25px;
+  color: white;
+  cursor: pointer;
+}
+#signOutBtn {
+  border: none;
+  background-color: #e41a37;
+  width: 30%;
+  height: 30%;
+  margin-right: 9px;
+}
+#slideContentRight {
+  transition: margin-left 0.5s;
+}
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  background-color: #e41a37;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+.sidenavProfile {
+  padding-left: 43px;
+}
+#sidenavProfileImg {
+  border-radius: 50%;
+  height: 50px;
+  width: 50px;
+}
+.sidenavProfile p {
+  font-size: 21px;
+  color: white;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+.sidenav li {
+  padding: 8px 8px 8px 10px;
+  display: block;
+  margin-top: 5px;
+}
+.sidenav a {
+  color: rgb(230, 230, 230);
+  font-size: 16px;
+  font-weight: 400;
+  text-decoration: none;
+}
+.sidenav img {
+  height: 25px;
+  width: 25px;
+  margin-right: 10px;
+}
+.sidenav a:hover {
+  color: #fff;
+  font-weight: 500;
+}
+.sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  margin-top: -2.5px;
+  margin-right: -17px;
+  right: 25px;
+  color: white;
+  border: none;
+  background-color: #e41a37;
+  font-size: 42px;
+}
+.fill {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+}
+.overlayBase {
+  z-index: 1;
+  background-color: black;
+  transition: opacity 0.5s;
+}
+.overlay {
+  /* position: sticky; */
+  transition: opacity 0.5s;
+  opacity: 0.5;
+}
+.overlay-hide {
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* WELCOME START */
+#welImg {
+  border-radius: 50%;
+  height: 70px;
+  width: 70px;
+}
+#welMsgH1 {
+  color: white;
+  font-size: 28px;
+}
+.welDiv {
+  text-align: center;
+}
+/* WEEKLY NEWS START */
+#weeklyNewsIcon {
+  position: absolute;
+  padding-left: 20px;
+  height: 50px;
+}
+#weeklyNews h4,
+h6 {
+  margin-left: 100px;
+}
+/* SKILL OF THE WEEK START */
+#skillWeekIcon {
+  position: absolute;
+  padding-left: 20px;
+  height: 50px;
+}
+#skillWeek h4 {
+  margin-left: 100px;
+}
+/* UPCOMING WORKOUTS START */
+#upcomingWorkoutsIcon {
+  position: absolute;
+  padding-left: 20px;
+  height: 50px;
+}
+#upcomingWorkouts h4 {
+  margin-left: 100px;
+}
+.dashCancelBtn {
+  background-color: #e41a37 !important;
+  color: white !important;
+}
+.dashCancelBtn:hover {
+  background-color: #383d45 !important;
+}
+/* BOOK A WORKOUT PAGE */
+#bookWorkout h4 {
+  margin-left: 100px;
+}
+#bookWorkoutsIcon {
+  position: absolute;
+  padding-left: 20px;
+  height: 50px;
+}
+/* DOCUMENTS LIST PAGE */
+#documentsListIcon {
+  position: absolute;
+  padding-left: 20px;
+  height: 50px;
+}
+#documents-list h4 {
+  margin-left: 100px;
+}
+/* RECENTLY ADDED VIDEOS START */
+#rec-videos-icon {
+  position: absolute;
+  padding-left: 20px;
+  height: 50px;
+}
+#video-wrapper h4 {
+  margin-left: 100px;
+}
+.video-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.video-container .video {
+  height: 15rem;
+  width: 25rem;
+  margin: 1rem;
+  overflow: hidden;
+  border-radius: 0.25rem;
+}
+.video-container .video video {
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
+
+/* DOCUMENTS */
+
+.documents-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.documents-container .document {
+  height: 19rem;
+  width: 20rem;
+  margin: 1rem;
+  overflow: hidden;
+  border-radius: 0.25rem;
+}
+
+/* VIDEO FILTER MODAL */
+
+.videoFilterModal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+}
+
+.video-modal-card {
+  position: fixed;
+  background: white;
+  width: 80%;
+  height: auto;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.video-filter-modal-show-block {
+  display: block;
+}
+
+.video-filter-modal-show-none {
+  display: none;
+}
+
+/* MEDIA START */
+@media screen and (max-height: 450px) {
+  .sidenav {
+    padding-top: 15px;
+  }
+  .sidenav a {
+    font-size: 18px;
+  }
+}
+
+.next-steps .fa-link {
+  margin-right: 5px;
+}
+
+/* Fix for use only flexbox in content area */
+.next-steps .row {
+  margin-bottom: 0;
+}
+
+.next-steps .col-md-5 {
+  margin-bottom: 3rem;
+}
+
+@media (max-width: 768px) {
+  .next-steps .col-md-5 {
+    margin-bottom: 0;
+  }
+}
+
+.spinner {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+  width: 100vw;
+  background-color: white;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.result-block-container .result-block {
+  opacity: 1;
+}

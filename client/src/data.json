@@ -1,0 +1,1013 @@
+{
+  "playlists": [
+    {
+      "id": "PLtAzkECGU1yXDNefSuSbxODu9hrRK0UtP",
+      "title": "Shooting"
+    },
+    {
+      "id": "PLtAzkECGU1yXhKBF1t-pJmH8S1nuBiu8z",
+      "title": "Ballhandling"
+    }
+  ],
+
+  "videos": [
+    {
+      "publishedAt": "2021-03-10T02:40:33Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "Drift Cut",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/xUxQR5bwBC8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/xUxQR5bwBC8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/xUxQR5bwBC8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXDNefSuSbxODu9hrRK0UtP",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "xUxQR5bwBC8"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-10T02:42:49Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "Lift Cut",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/TScJG6mhHWE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/TScJG6mhHWE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/TScJG6mhHWE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/TScJG6mhHWE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/TScJG6mhHWE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXDNefSuSbxODu9hrRK0UtP",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "TScJG6mhHWE"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-10T02:43:57Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "Shift Cut",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/uiO59E79_eQ/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/uiO59E79_eQ/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/uiO59E79_eQ/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/uiO59E79_eQ/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/uiO59E79_eQ/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXDNefSuSbxODu9hrRK0UtP",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "uiO59E79_eQ"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-10T03:11:54Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "7 Drill - Mid Range",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/27i47jS4q2k/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/27i47jS4q2k/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/27i47jS4q2k/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/27i47jS4q2k/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/27i47jS4q2k/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXDNefSuSbxODu9hrRK0UtP",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "27i47jS4q2k"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-10T03:27:33Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "7 Drill - Perimeter",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/qWQt1zgbS_c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/qWQt1zgbS_c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/qWQt1zgbS_c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/qWQt1zgbS_c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/qWQt1zgbS_c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXDNefSuSbxODu9hrRK0UtP",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "qWQt1zgbS_c"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-10T03:28:09Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "With the Grain Pull Ups",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/DM7Br6H6JUc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/DM7Br6H6JUc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/DM7Br6H6JUc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/DM7Br6H6JUc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/DM7Br6H6JUc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXDNefSuSbxODu9hrRK0UtP",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "DM7Br6H6JUc"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-10T03:29:14Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "Against the Grain Pull Ups",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0i4J7shRBTg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0i4J7shRBTg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0i4J7shRBTg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0i4J7shRBTg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0i4J7shRBTg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXDNefSuSbxODu9hrRK0UtP",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0i4J7shRBTg"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-10T03:31:14Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "Half Court Dash Shooting",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/5ojuC5IHhCg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/5ojuC5IHhCg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/5ojuC5IHhCg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/5ojuC5IHhCg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/5ojuC5IHhCg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXDNefSuSbxODu9hrRK0UtP",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "5ojuC5IHhCg"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-10T02:27:45Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "Continuous Behind Shift",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/0Y48REzWkF8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/0Y48REzWkF8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/0Y48REzWkF8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/0Y48REzWkF8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/0Y48REzWkF8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXhKBF1t-pJmH8S1nuBiu8z",
+      "position": 0,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "0Y48REzWkF8"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-12T01:43:29Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "Behind Back",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bYmwLyNBOOs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bYmwLyNBOOs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bYmwLyNBOOs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bYmwLyNBOOs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bYmwLyNBOOs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXhKBF1t-pJmH8S1nuBiu8z",
+      "position": 1,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bYmwLyNBOOs"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-12T01:44:15Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "Behind Jab",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/UXfiqFrBJlc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/UXfiqFrBJlc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/UXfiqFrBJlc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/UXfiqFrBJlc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/UXfiqFrBJlc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXhKBF1t-pJmH8S1nuBiu8z",
+      "position": 2,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "UXfiqFrBJlc"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-12T01:45:03Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "Between Jab",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/y0rBPiUDWpc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/y0rBPiUDWpc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/y0rBPiUDWpc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/y0rBPiUDWpc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/y0rBPiUDWpc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXhKBF1t-pJmH8S1nuBiu8z",
+      "position": 3,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "y0rBPiUDWpc"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-12T01:46:14Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "Between Legs",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/-3olfH9Mees/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/-3olfH9Mees/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/-3olfH9Mees/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/-3olfH9Mees/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/-3olfH9Mees/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXhKBF1t-pJmH8S1nuBiu8z",
+      "position": 4,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "-3olfH9Mees"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-10T02:30:11Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "Hip Swivel",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/T_XrD2sdPuA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/T_XrD2sdPuA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/T_XrD2sdPuA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/T_XrD2sdPuA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/T_XrD2sdPuA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXhKBF1t-pJmH8S1nuBiu8z",
+      "position": 5,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "T_XrD2sdPuA"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-10T02:21:09Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "Pace Blender Behind",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/LH8McVhhtwc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/LH8McVhhtwc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/LH8McVhhtwc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/LH8McVhhtwc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/LH8McVhhtwc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXhKBF1t-pJmH8S1nuBiu8z",
+      "position": 6,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "LH8McVhhtwc"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-10T02:22:41Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "Pace Blender Between",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/a03MsIo1tAk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/a03MsIo1tAk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/a03MsIo1tAk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/a03MsIo1tAk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/a03MsIo1tAk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXhKBF1t-pJmH8S1nuBiu8z",
+      "position": 7,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "a03MsIo1tAk"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-10T02:12:52Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "Pace Blender Drag",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/kPH2YHOsr4M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/kPH2YHOsr4M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/kPH2YHOsr4M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/kPH2YHOsr4M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/kPH2YHOsr4M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXhKBF1t-pJmH8S1nuBiu8z",
+      "position": 8,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "kPH2YHOsr4M"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-10T02:26:14Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "Shift Dribble Cycle",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/_r9HiOsTjfM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/_r9HiOsTjfM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/_r9HiOsTjfM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/_r9HiOsTjfM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/_r9HiOsTjfM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXhKBF1t-pJmH8S1nuBiu8z",
+      "position": 9,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "_r9HiOsTjfM"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-10T02:34:22Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "Speed Stop",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/eOpfxNQNyOM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/eOpfxNQNyOM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/eOpfxNQNyOM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/eOpfxNQNyOM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/eOpfxNQNyOM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXhKBF1t-pJmH8S1nuBiu8z",
+      "position": 10,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "eOpfxNQNyOM"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-10T02:34:56Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "Speed Stop Behind",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/bY71hJw8dWk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/bY71hJw8dWk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/bY71hJw8dWk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/bY71hJw8dWk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/bY71hJw8dWk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXhKBF1t-pJmH8S1nuBiu8z",
+      "position": 11,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "bY71hJw8dWk"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-10T02:37:01Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "Speed Stop Between",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/im5wXmaMM_U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/im5wXmaMM_U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/im5wXmaMM_U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/im5wXmaMM_U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/im5wXmaMM_U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXhKBF1t-pJmH8S1nuBiu8z",
+      "position": 12,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "im5wXmaMM_U"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-10T02:32:25Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "Zig Zag Combo",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/A23SnthaZYI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/A23SnthaZYI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/A23SnthaZYI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/A23SnthaZYI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/A23SnthaZYI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXhKBF1t-pJmH8S1nuBiu8z",
+      "position": 13,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "A23SnthaZYI"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-12T01:57:30Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "Continuous Behind Float",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/s7C1rIjUdj8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/s7C1rIjUdj8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/s7C1rIjUdj8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/s7C1rIjUdj8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/s7C1rIjUdj8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXhKBF1t-pJmH8S1nuBiu8z",
+      "position": 14,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "s7C1rIjUdj8"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    },
+    {
+      "publishedAt": "2021-03-12T02:01:18Z",
+      "channelId": "UCHBDAkjxufCaEfmRaf7Bj3Q",
+      "title": "Continuous Between Float",
+      "description": "",
+      "thumbnails": {
+        "default": {
+          "url": "https://i.ytimg.com/vi/ZeGlU9YD2U0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        "medium": {
+          "url": "https://i.ytimg.com/vi/ZeGlU9YD2U0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        "high": {
+          "url": "https://i.ytimg.com/vi/ZeGlU9YD2U0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        "standard": {
+          "url": "https://i.ytimg.com/vi/ZeGlU9YD2U0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        "maxres": {
+          "url": "https://i.ytimg.com/vi/ZeGlU9YD2U0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        }
+      },
+      "channelTitle": "Mychal Martinez Basketball",
+      "playlistId": "PLtAzkECGU1yXhKBF1t-pJmH8S1nuBiu8z",
+      "position": 15,
+      "resourceId": {
+        "kind": "youtube#video",
+        "videoId": "ZeGlU9YD2U0"
+      },
+      "videoOwnerChannelTitle": "Mychal Martinez Basketball",
+      "videoOwnerChannelId": "UCHBDAkjxufCaEfmRaf7Bj3Q"
+    }
+  ]
+}
