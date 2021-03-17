@@ -32,16 +32,10 @@ class VideoLibraryHeader extends Component {
             src={videoIcon}
             alt=""
           />
-          <h4 style={{ display: "inline-block" }} className="card-title fs-3">
+          <h4 style={{transform: "translateY(10px)"}} className="card-title fs-3">
             {isHomepage ? "Recently Added" : "Video Library"}
           </h4>
         </div>
-        <h6
-          style={{ display: "inline-block" }}
-          className="card-subtitle mb-3 text-black-50"
-        >
-          Date Last Updated
-        </h6>
         <span
           style={{
             display: "inline-block",
