@@ -233,7 +233,7 @@ function Documents() {
           <h6 className="card-subtitle mb-3 text-black-50">
             28 documents in library
           </h6>
-          {/*<select
+          <select
             style={{
               display: "inline-block",
               float: "right",
@@ -248,7 +248,7 @@ function Documents() {
           >
             <option value={true}>Grid</option>
             <option value={false}>List</option>
-          </select>*/}
+          </select>
         </div>
 
         {selectedDoc && (

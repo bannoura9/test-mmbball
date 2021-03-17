@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import Modal from "react-bootstrap/Modal";
 import { Link } from "react-router-dom";
 import { Modal1 } from "./sendMessage-template";
-// import { AccountModal } from "./account-settings-modal";
+import { AccountModal } from "./account-settings-modal";
 import { withAuth0 } from "@auth0/auth0-react";
 import Logo from "../../assets/logo/mm-shield.png";
 import signOutIcon from "../../assets/icons/sign-out.png";
@@ -219,7 +219,7 @@ class Nav extends Component {
                     Send Message
                   </Link>
                 </li>
-                {/* <li>
+                <li>
                   <Modal show={this.state.show2}>
                     <AccountModal />
                     <button
@@ -240,7 +240,7 @@ class Nav extends Component {
                   >
                     Account Settings
                   </Link>
-                </li> */}
+                </li>
                 <li id="qsLogoutBtn" onClick={this.logoutWithRedirect}>
                   <Link to="#">Logout</Link>
                 </li>

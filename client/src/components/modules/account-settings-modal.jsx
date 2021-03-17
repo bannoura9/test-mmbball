@@ -8,7 +8,8 @@ export const AccountModal = ({ handleClose, show, children }) => {
         <label
           for="recipient-name"
           class="col-form-label mb-1"
-          style={{ fontFamily: '"Roboto", sans-serif' }}>
+          style={{ fontFamily: '"Roboto", sans-serif' }}
+        >
           Change Email
         </label>
         <br />
@@ -19,7 +20,8 @@ export const AccountModal = ({ handleClose, show, children }) => {
             backgroundColor: "#e41a37",
             color: "white",
             fontFamily: '"Roboto", sans-serif',
-          }}>
+          }}
+        >
           Update
         </button>
       </div>
@@ -27,7 +29,8 @@ export const AccountModal = ({ handleClose, show, children }) => {
         <label
           for="recipient-name"
           class="col-form-label mb-1"
-          style={{ fontFamily: '"Roboto", sans-serif' }}>
+          style={{ fontFamily: '"Roboto", sans-serif' }}
+        >
           Change Password
         </label>
         <br />
@@ -38,7 +41,8 @@ export const AccountModal = ({ handleClose, show, children }) => {
             backgroundColor: "#e41a37",
             color: "white",
             fontFamily: '"Roboto", sans-serif',
-          }}>
+          }}
+        >
           Update
         </button>
       </div>
@@ -46,7 +50,8 @@ export const AccountModal = ({ handleClose, show, children }) => {
         <label
           for="recipient-name"
           class="col-form-label mb-1"
-          style={{ fontFamily: '"Roboto", sans-serif' }}>
+          style={{ fontFamily: '"Roboto", sans-serif' }}
+        >
           Delete Account
         </label>
         <br />
@@ -57,7 +62,8 @@ export const AccountModal = ({ handleClose, show, children }) => {
             backgroundColor: "#e41a37",
             color: "white",
             fontFamily: '"Roboto", sans-serif',
-          }}>
+          }}
+        >
           Delete
         </button>
       </div>

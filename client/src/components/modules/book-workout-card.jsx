@@ -19,7 +19,9 @@ function BookWorkoutCard(props) {
                     data-bs-target="#Modal"
                     data-bs-title="Are you sure you want to cancel this workout?"
                     onClick={props.handleShow}
-                >Book</button>
+                >
+                    Book
+              </button>
                 <hr className="mt-4" />
             </div>
         </>

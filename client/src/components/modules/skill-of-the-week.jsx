@@ -9,7 +9,7 @@ const skillOfTheWeek = () => {
           <img id="rec-videos-icon" src={skillOfTheWeekImg} alt="" />
           <h4 className="card-title fs-3">Skill of the Week</h4>
           <h6 className="card-subtitle mb-3 text-black-50">
-            Week of March 15th
+            Week of March 2nd
           </h6>
         </div>
         <div className="video-container ">
@@ -28,9 +28,9 @@ const skillOfTheWeek = () => {
         <div className="card-body mb-2">
           <h5>Drift Cut</h5>
           <p className="card-text text-black-50">
-            The Drift Cut is a common Perimeter Cut used to stretch the defense and create space horizontally on dribble drives.
-            It is also an important cut as it relates to providing an "outlet pass" for ball handlers that 
-            get stuck along the baseline.
+            Some quick example text to build on the card title and make up the
+            bulk of the card's content. Some quick example text to build on the
+            card title and make up the bulk of the card's content.
           </p>
         </div>
       </div>
